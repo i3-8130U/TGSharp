@@ -17,7 +17,7 @@ If error occurs, try to run ```npm install --global --production windows-build-t
 To run bot run ```run.bat```
 
 # How to use
-Type /help to get list of commands. To get help for command, type ```/help [command name without "/"]```
+Type /help to get list of commands. To get help for command, type ```/help [command name without "/"]```.
 Also you can browse [commands.md](../commands.md)
 
 # Modules used
