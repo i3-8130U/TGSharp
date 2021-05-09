@@ -1,5 +1,4 @@
 # TGSharp
-======================================================================================================
 TGSharp has VK group (https://vk.com/nodelooper), there you can get help for TGSharp on russian.
 Allows you to control computer with Telegram bot. Tested on Windows 10 2004 x64
 
@@ -19,7 +18,7 @@ To run bot run ```run.bat```
 
 # How to use
 Type /help to get list of commands. To get help for command, type ```/help [command name without "/"]```
-Also you can browse 
+Also you can browse [commands.md](../commands.md)
 
 # Modules used
 | Name                  | Link                                            | Usage                        |
