@@ -11,10 +11,10 @@
 ```/move [x] [y]``` - Move mouse cursor
 (example: ```/move 100 200```)
 
-```/run``` - Run program
+```/run [path/name]``` - Run program
 (example: ```/run notepad```)
 
-```/runbg``` - Run program in background
+```/runbg [path/name]``` - Run program in background
 (example: ```/run notepad```)
 
 ```/download [url] [file]``` - Download file
