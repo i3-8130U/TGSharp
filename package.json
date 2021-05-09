@@ -1,0 +1,15 @@
+{
+  "name": "tgsharp",
+  "version": "1.0.0",
+  "description": "Alternative to VK Sharp (vk.com/strdev)",
+  "main": "tgsharp.js",
+  "scripts": {
+    "start": "node tgsharp.js"
+  },
+  "author": "i3-8130U",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "node-emoji": "^1.10.0",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}

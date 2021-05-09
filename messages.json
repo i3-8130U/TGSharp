@@ -1,0 +1,6 @@
+{
+    "start": "Hi! Thanks for using TGSharp :heart:\nType /help to get list of commands :star:",
+    "executed": ":star: Command executed :star:",
+    "commands": "Command list (type /help [command without prefix] to get info about command):\n/type - Type text\n/typef - Instantly type text\n/screenshot - Take screenshot\n/move - Move mouse cursor\n/run - Run program\n/runbg - Run program in background\n/download - Download file\n",
+    "somethingWrong": ":warning: Something went wrong :warning:"
+}
