@@ -18,7 +18,7 @@ To run bot run ```run.bat```
 
 # How to use
 Type /help to get list of commands. To get help for command, type ```/help [command name without "/"]```.
-Also you can browse [commands.md](../commands.md)
+Also you can browse [commands.md](../blob/master/commands.md)
 
 # Modules used
 | Name                  | Link                                            | Usage                        |
