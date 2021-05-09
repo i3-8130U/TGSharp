@@ -1,21 +1,21 @@
 # Command list
 ```/type [text]``` - Type text
-(Example: ```/type Hello world!```)
+(example: ```/type Hello world!```)
 
 ```/typef [text]``` - Instantly type text
-(Example: ```/typef Hello world!```)
+(example: ```/typef Hello world!```)
 
 ```/screenshot``` - Take screenshot
-(Example: ```/screenshot```)
+(example: ```/screenshot```)
 
 ```/move [x] [y]``` - Move mouse cursor
-(Example: ```/move 100 200```)
+(example: ```/move 100 200```)
 
 ```/run``` - Run program
-(Example: ```/run notepad```)
+(example: ```/run notepad```)
 
 ```/runbg``` - Run program in background
-(Example: ```/run notepad```)
+(example: ```/run notepad```)
 
 ```/download [url] [file]``` - Download file
-(Example: ```/download example.org/directory file_in_directory.txt```)
+(example: ```/download example.org/directory file_in_directory.txt```)
