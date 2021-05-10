@@ -14,13 +14,15 @@
 ```
 /run
 [path/name] - Run program
+
 (example: /run
-            notepad)
+          notepad)
 ```
 
 ```
 /runbg
 [path/name] - Run program in background
+
 (example: /run
           notepad)
 ```
