@@ -5,6 +5,8 @@ Allows you to control computer with Telegram bot. Tested on Windows 10 2004 x64
 Disclaimer:
 For educational purposes only.
 
+Stable version: 1.1.1
+
 # Installation
 First time installation:
 1. Download ZIP archive and unpack it
