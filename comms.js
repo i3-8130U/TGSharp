@@ -48,12 +48,20 @@ function takeScreenshot(bot, msg, args) {
 }
 
 function run(bot, msg, args) {
-    crun.run(args[1])
+    args = msg.text.split(' ');
+    args.shift();
+    args = args.join(' ');
+
+    crun.run(args)
     bot.sendMessage(msg.from.id, getText(messages.executed))
 }
 
 function runbg(bot, msg, args) {
-    crunbg.runbg(args[1])
+    args = msg.text.split(' ');
+    args.shift();
+    args = args.join(' ');
+
+    crunbg.runbg(args)
     bot.sendMessage(msg.from.id, getText(messages.executed))
 }
 
