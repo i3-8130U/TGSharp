@@ -16,7 +16,7 @@
 [path/name] - Run program
 
 (example: /run
-          notepad)
+          cmd /k echo test)
 ```
 
 ```
