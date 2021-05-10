@@ -12,14 +12,18 @@
 (example: ```/move 100 200```)
 
 ```/run```
+
 ```[path/name]``` - Run program
 (example: ```/run
+
             notepad```)
 
 ```/runbg```
+
 ```[path/name]``` - Run program in background
-(example: ```/run
-            notepad```)
+(example: ```/run```
+
+          ```notepad```)
 
 ```/download [url] [file]``` - Download file
 (example: ```/download example.org/directory file_in_directory.txt```)
