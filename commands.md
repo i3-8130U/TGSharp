@@ -11,21 +11,13 @@
 ```/move [x] [y]``` - Move mouse cursor
 (example: ```/move 100 200```)
 
-```
-/run
-[path/name] - Run program
+```/run [path/name]``` - Run program
 
-(example: /run
-          cmd /k echo test)
-```
+(example: ```/run cmd /k echo test```)
 
-```
-/runbg
-[path/name] - Run program in background
+```/runbg [path/name]``` - Run program
 
-(example: /run
-          notepad)
-```
+(example: ```/runbg cmd /k echo test```)
 
 ```/download [url] [file]``` - Download file
 (example: ```/download example.org/directory file_in_directory.txt```)
