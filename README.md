@@ -22,6 +22,13 @@ To run bot run ```run.bat```
 Type /help to get list of commands. To get help for command, type ```/help [command name without "/"]```.
 Also you can browse [commands.md](commands.md)
 
+# Plans for next version
+TGSharp v1.2.0:
+1. New functions: reboot, shutdown, copy files, take webcam screenshots. 
+2. Instrucions to create bot, FAQ. 
+3. Linux support. 
+4. Will be tested on Windows 7 x86 and x64 and Windows 8.1 x64. 
+
 # Modules used
 | Name                  | Link                                            | Usage                        |
 |-----------------------|-------------------------------------------------|------------------------------|
